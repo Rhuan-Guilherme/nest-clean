@@ -14,6 +14,7 @@ lerna-debug.log*
 
 # Data 
 data
+generated
 
 # OS
 .DS_Store
